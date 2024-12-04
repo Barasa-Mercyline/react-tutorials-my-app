@@ -6,10 +6,10 @@ import Card from "./Card";
 
 function App(){
     return (<div >
-        <Heading />
-        <Note/>
+        {/* <Heading /> */}
+        {/* <Note/> */}
         <Card />
-        <Footer />
+        {/* <Footer /> */}
         </div>)
 }
 
