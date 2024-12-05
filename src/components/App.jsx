@@ -11,7 +11,8 @@ function App(){
          <Heading /> 
         <Note/>
         <h1 className="heading">My Contacts</h1>
-  
+          
+          
         <Card       
                name={contacts[0].name}     
                img={contacts[0].imgURL}       
