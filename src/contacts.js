@@ -2,7 +2,7 @@ const contacts = [
    
   {
     name: "Mercyline",
-    imgURL: "https://drive.google.com/file/d/14-b-60jVF4LB7eqlf4x2F3Cvge4uriza/view?usp=drive_link.jpg",
+    imgURL: "https://avatars.githubusercontent.com/u/88781634?s=400&u=91384b29de12ad5a66f2cdfc1ac08b2b16467808&v=4",
     phone: "+2547144133",
     email: "m@cy.com ",
   },
